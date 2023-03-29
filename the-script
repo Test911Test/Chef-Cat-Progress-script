@@ -3,7 +3,7 @@ local HttpService = game:GetService("HttpService")
 function sendProgress()
     local embed = {
             ["title"] = "Chef Cat Progress Tracker",
-            ["description"] = "test",
+            ["description"] = "",
             ["type"] = "rich",
             ["color"] = tonumber(0x00ffff),
             ["fields"] = {
