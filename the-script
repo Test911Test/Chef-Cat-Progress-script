@@ -22,7 +22,7 @@ function sendProgress()
                     ["url"] = "https://i.ibb.co/3YwWGgf/chefcat.png"
             },
             ["footer"] = {
-                ["text"] = "Improved by Anton_911#0874"
+                ["text"] = "Improved by Sonne_911"
             }
     }
         
